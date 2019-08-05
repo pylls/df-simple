@@ -1,3 +1,18 @@
+All code in this folder is based on code provided by Sirinam et al., 
+
+https://github.com/deep-fingerprinting/df, 
+
+original license: 
+> This code is to implement deep fingerprinting model for website fingerprinting attacks
+> ACM Reference Formant
+> Payap Sirinam, Mohsen Imani, Marc Juarez, and Matthew Wright. 2018.
+> Deep Fingerprinting: Undermining Website Fingerprinting Defenses with Deep Learning.
+> In 2018 ACM SIGSAC Conference on Computer and Communications Security (CCS ’18),
+> October 15–19, 2018, Toronto, ON, Canada. ACM, New York, NY, USA, 16 pages.
+> https://doi.org/10.1145/3243734.3243768
+
+All modifications made by Tobias Pulls is released under GPLv3.
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
